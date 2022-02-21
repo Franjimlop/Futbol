@@ -1,0 +1,15 @@
+.titulo {
+  font-family: Brush Script MT; 
+  font-size: 100px; 
+  COLOR: #fd1818; 
+}
+.texto {
+  color: rgb(113, 175, 19);
+  font-size: 30px;
+}
+.fondo {
+    background-color: black;
+}
+.bg-img {
+  background-image: url(cesped.jpg);
+}

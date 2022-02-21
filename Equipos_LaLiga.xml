@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.xsl" type="text/xsl"?>
+<Clubes>
+  <Club>
+    <Equipo>Athletic Club</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/athletic.png</Escudo>
+    <Estadio>Estadio San Mamés</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/06/17/medium/f020571f7c260516dfab3b9dc5df6348.png</FotoEstadio>
+    <Fundacion>Fundación 1898</Fundacion>
+    <Color>https://github.com/Franjimlop/imagenesColores/blob/main/equipaciones/rojoyblanco.png</Color>
+  </Club>
+  <Club>
+    <Equipo>Atlético de Madrid</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/atletico.png</Escudo>
+    <Estadio>Wanda Metropolitano</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/06/17/medium/935f92c15c4d3442ef3f6d843beba0e1.png</FotoEstadio>
+    <Fundacion>Fundación 1903</Fundacion>
+    <Color>https://github.com/Franjimlop/imagenesColores/blob/main/equipaciones/rojoyblanco.png</Color>
+  </Club>
+  <Club>
+    <Equipo>CA Osasuna</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/osasuna.png</Escudo>
+    <Estadio>Estadio El Sadar</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2021/01/20/medium/c1b35f03ff875a4a12c7dcbd477d964a.png</FotoEstadio>
+    <Fundacion>Fundación 1920</Fundacion>
+    <Color>https://github.com/Franjimlop/imagenesColores/blob/main/equipaciones/rojo.png</Color>
+  </Club>
+  <Club>
+    <Equipo>Cádiz CF</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/cadiz.png</Escudo>
+    <Estadio>Estadio Nuevo Mirandilla</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/08/12/medium/ec810605f774c1a9a3ed75de01826124.png</FotoEstadio>
+    <Fundacion>Fundación 1910</Fundacion>
+    <Color>https://github.com/Franjimlop/imagenesColores/blob/main/equipaciones/amarillo.png</Color>
+  </Club>
+  <Club>
+    <Equipo>Deportivo Alavés</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2020/09/01/xsmall/27002754a98bf535807fe49a24cc63ea.png</Escudo>
+    <Estadio>Mendizorroza</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/06/17/medium/6b906780ba96aa6689192fb9afcaac6b.png</FotoEstadio>
+    <Fundacion>Fundación 1921</Fundacion>
+    <Color>https://github.com/Franjimlop/imagenesColores/blob/main/equipaciones/azulyblanco.png</Color>
+  </Club>
+  <Club>
+    <Equipo>Elche CF</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/elche.png</Escudo>
+    <Estadio>Estadio Martínez Valero</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/08/12/medium/150e2d322086b631feb7ec0016b982f6.png</FotoEstadio>
+    <Fundacion>Fundación 1923</Fundacion>
+    <Color>https://github.com/Franjimlop/imagenesColores/blob/main/equipaciones/verdeyblanco2.png</Color>
+  </Club>
+  <Club>
+    <Equipo>FC Barcelona</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/barcelona.png</Escudo>
+    <Estadio>Camp Nou</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/06/17/medium/0623ce55ec3ee4e439ed6d24fe2ba77b.png</FotoEstadio>
+    <Fundacion>Fundación 1899</Fundacion>
+    <Color>https://github.com/Franjimlop/imagenesColores/blob/main/equipaciones/azulgrana.png</Color>
+  </Club>
+  <Club>
+    <Equipo>Getafe CF</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/getafe.png</Escudo>
+    <Estadio>Coliseum Alfonso Pérez</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/06/17/medium/b881ba5a6846e7ccdbc3a6a75a2c5e69.png</FotoEstadio>
+    <Fundacion>Fundación 1983</Fundacion>
+    <Color>https://github.com/Franjimlop/imagenesColores/blob/main/equipaciones/azulosc.png</Color>
+  </Club>
+  <Club>
+    <Equipo>Granada CF</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/granada.png</Escudo>
+    <Estadio>Nuevo Los Cármenes</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/08/07/medium/4de53714b029bf44d86c53bd0d6835d3.png</FotoEstadio>
+    <Fundacion>Fundación 1931</Fundacion>
+    <Color>https://github.com/Franjimlop/imagenesColores/blob/main/equipaciones/rojoyblanco2.png</Color>
+  </Club>
+  <Club>
+    <Equipo>Levante UD</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/levante.png</Escudo>
+    <Estadio>Estadio Ciutat de València</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2021/07/21/medium/ae79ef9d1c26baf8602706ba1acef94b.png</FotoEstadio>
+    <Fundacion>Fundación 1909</Fundacion>
+    <Color>https://github.com/Franjimlop/imagenesColores/blob/main/equipaciones/azulgrana.png</Color>
+  </Club>
+  <Club>
+    <Equipo>Rayo Vallecano</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/rayo.png</Escudo>
+    <Estadio>Estadio de Vallecas</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/08/12/medium/b86a37d70be8931c079066cc8c48817f.png</FotoEstadio>
+    <Fundacion>Fundación 1924</Fundacion>
+    <Color>https://github.com/Franjimlop/imagenesColores/blob/main/equipaciones/rayo.png</Color>
+  </Club>
+  <Club>
+    <Equipo>RC Celta</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/celta.png</Escudo>
+    <Estadio>Estadio ABANCA Balaídos</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/06/17/medium/0aef263ef366bd0b81369408adb27cd6.png</FotoEstadio>
+    <Fundacion>Fundación 1923</Fundacion>
+    <Color>https://github.com/Franjimlop/imagenesColores/blob/main/equipaciones/azul.png</Color>
+  </Club>
+  <Club>
+    <Equipo>RCD Espanyol de Barcelona</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/espanyol.png</Escudo>
+    <Estadio>RCDE Stadium</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/06/17/medium/306cc02af120e092849ddf38954bcb3e.png</FotoEstadio>
+    <Fundacion>Fundación 1900</Fundacion>
+    <Color>https://github.com/Franjimlop/imagenesColores/blob/main/equipaciones/azulyblanco.png</Color>
+  </Club>
+  <Club>
+    <Equipo>RCD Mallorca</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/mallorca.png</Escudo>
+    <Estadio>Visit Mallorca Estadi</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/08/07/medium/6f67f604b5025b10ef0dc14d700586ae.png</FotoEstadio>
+    <Fundacion>Fundación 1916</Fundacion>
+    <Color>https://github.com/Franjimlop/imagenesColores/blob/main/equipaciones/rojo.png</Color>
+  </Club>
+  <Club>
+    <Equipo>Real Betis</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/betis.png</Escudo>
+    <Estadio>Estadio Benito Villamarín</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/06/17/medium/f211dabccff68741a75d175307d78f59.png</FotoEstadio>
+    <Fundacion>Fundación 1907</Fundacion>
+    <Color>https://github.com/Franjimlop/imagenesColores/blob/main/equipaciones/verdeyblanco.png</Color>
+  </Club>
+  <Club>
+    <Equipo>Real Madrid</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/real-madrid.png</Escudo>
+    <Estadio>Estadio Santiago Bernabéu</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/06/08/medium/e6695a8184f41deea3ad87dd9c12ab1f.png</FotoEstadio>
+    <Fundacion>Fundación 1902</Fundacion>
+    <Color>https://github.com/Franjimlop/imagenesColores/blob/main/equipaciones/blanco.png</Color>
+  </Club>
+  <Club>
+    <Equipo>Real Sociedad</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/real-sociedad.png</Escudo>
+    <Estadio>Reale Arena</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/10/03/medium/b20727f80d7b4c9d5ad18acec9b663c5.png</FotoEstadio>
+    <Fundacion>Fundación 1909</Fundacion>
+    <Color>https://github.com/Franjimlop/imagenesColores/blob/main/equipaciones/azuloscyblanco.png</Color>
+  </Club>
+  <Club>
+    <Equipo>Sevilla FC</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/sevilla.png</Escudo>
+    <Estadio>Ramón Sánchez-Pizjuán</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2021/01/20/medium/5a52ab192cd4e4b1cc3e3a752d99c4e8.png</FotoEstadio>
+    <Fundacion>Fundación 1905</Fundacion>
+    <Color>https://github.com/Franjimlop/imagenesColores/blob/main/equipaciones/rojo.png</Color>
+  </Club>
+  <Club>
+    <Equipo>Valencia CF</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/valencia.png</Escudo>
+    <Estadio>Camp de Mestalla</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/06/17/medium/984682326cdbb55f5034778b7690a795.png</FotoEstadio>
+    <Fundacion>Fundación 1919</Fundacion>
+    <Color>https://github.com/Franjimlop/imagenesColores/blob/main/equipaciones/naranja.png</Color>
+  </Club>
+  <Club>
+    <Equipo>Villarreal CF</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/villarreal.png</Escudo>
+    <Estadio>Estadio de la Cerámica</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/10/03/medium/ac940b8f6681d614e337d20d5bf7f0a8.png</FotoEstadio>
+    <Fundacion>Fundación 1923</Fundacion>
+    <Color>https://github.com/Franjimlop/imagenesColores/blob/main/equipaciones/amarillo.png</Color>
+  </Club>
+</Clubes>
