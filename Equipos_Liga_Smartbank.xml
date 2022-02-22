@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Clubes>
+  <Club>
+    <Equipo>AD Alcorcón</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/alcorcon.png</Escudo>
+    <Fundacion>Fundación 1971</Fundacion>
+    <Estadio>Santo Domingo</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/08/12/medium/26424d1dae3d1bdbfde4911baea5ebbc.png</FotoEstadio>
+  </Club>
+  <Club>
+    <Equipo>Burgos CF</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2021/06/24/xsmall/8de24d38ab1472bbae1620d36582d7bd.png</Escudo>
+    <Fundacion>Fundación 1985</Fundacion>
+    <Estadio>El Plantío</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2021/06/25/medium/0c6b7e0a3a13f0448429a1f5646e374b.png</FotoEstadio>
+  </Club>
+  <Club>
+    <Equipo>CD Leganés</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/leganes.png</Escudo>
+    <Fundacion>Fundación 1928</Fundacion>
+    <Estadio>Estadio Municipal Butarque</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/10/03/medium/2b7303ff6a9beaf1b4dc88599116df55.png</FotoEstadio>
+  </Club>
+  <Club>
+    <Equipo>CD Lugo</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/lugo.png</Escudo>
+    <Fundacion>Fundación 1953</Fundacion>
+    <Estadio>Estadio Ángel Carro</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/08/12/medium/d34ca1023bb5dccba0063ccb509a63c4.png</FotoEstadio>
+  </Club>
+  <Club>
+    <Equipo>CD Mirandés</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/mirandes.png</Escudo>
+    <Fundacion>Fundación 1927</Fundacion>
+    <Estadio>Estadio Municipal de Anduva</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/08/07/medium/09494ec693d409f51c9dac40661ceb95.png</FotoEstadio>
+  </Club>
+  <Club>
+    <Equipo>CD Tenerife</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/tenerife.png</Escudo>
+    <Fundacion>Fundación 1922</Fundacion>
+    <Estadio>Estadio Heliodoro Rodríguez López</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/08/12/medium/495894595b2656919283f99f4bb6b500.png</FotoEstadio>
+  </Club>
+  <Club>
+    <Equipo>CF Fuenlabrada</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/fuenlabrada.png</Escudo>
+    <Fundacion>Fundación 1975</Fundacion>
+    <Estadio>Estadio Fernando Torres</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/08/07/medium/529175d4a9b251db1de8faf7ac1a985d.png</FotoEstadio>
+  </Club>
+  <Club>
+    <Equipo>FC Cartagena</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2022/02/11/xsmall/1628caa9b2002a11e564eb84b3677f78.png</Escudo>
+    <Fundacion>Fundación 1995</Fundacion>
+    <Estadio>Municipal Cartagonova</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2020/08/11/medium/ee56b48a91582dcd222e4a4e4e6bf3c9.png</FotoEstadio>
+  </Club>
+  <Club>
+    <Equipo>Girona FC</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/girona.png</Escudo>
+    <Fundacion>Fundación 1930</Fundacion>
+    <Estadio>Estadio Municipal de Montilivi</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/08/12/medium/7b3a3afd7a48a2a9ad5563033a595f3c.png</FotoEstadio>
+  </Club>
+  <Club>
+    <Equipo>Málaga CF</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/malaga.png</Escudo>
+    <Fundacion>Fundación 1994</Fundacion>
+    <Estadio>La Rosaleda</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/08/12/medium/b1cf44da3b0fe0511b42a6ab3ef10862.png</FotoEstadio>
+  </Club>
+  <Club>
+    <Equipo>R. Sociedad B</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/real-sociedad.png</Escudo>
+    <Fundacion>Fundación 1909</Fundacion>
+    <Estadio>Zubieta</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/10/03/medium/b20727f80d7b4c9d5ad18acec9b663c5.png</FotoEstadio>
+  </Club>
+  <Club>
+    <Equipo>Real Oviedo</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/oviedo.png</Escudo>
+    <Fundacion>Fundación 1926</Fundacion>
+    <Estadio>Estadio Carlos Tartiere</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/08/12/medium/4fcc2cd081a56e2659f45a17c44efe24.png</FotoEstadio>
+  </Club>
+  <Club>
+    <Equipo>Real Sporting</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/sporting.png</Escudo>
+    <Fundacion>Fundación 1905</Fundacion>
+    <Estadio>El Molinón-Enrique Castro &quot;Quini&quot;</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/08/12/medium/b2479755c9e3ad62da6f5b909dd7b471.png</FotoEstadio>
+  </Club>
+  <Club>
+    <Equipo>Real Valladolid CF</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/valladolid.png</Escudo>
+    <Fundacion>Fundación 1928</Fundacion>
+    <Estadio>Estadio Municipal José Zorrilla</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/06/17/medium/5dfdde2dab7cf9814c6f008591a3a4b5.png</FotoEstadio>
+  </Club>
+  <Club>
+    <Equipo>Real Zaragoza</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/zaragoza.png</Escudo>
+    <Fundacion>Fundación 1932</Fundacion>
+    <Estadio>Estadio de La Romareda</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/08/14/medium/2b0d6f3531ac76c33ff3d01511217906.png</FotoEstadio>
+  </Club>
+  <Club>
+    <Equipo>SD Amorebieta</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2021/06/24/xsmall/7dcec1604142a8f60f876e4c7e839da7.png</Escudo>
+    <Fundacion>Fundación 1925</Fundacion>
+    <Estadio>Instalaciones de Lezama Campo 2</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2021/06/24/medium/7ecd26586cde141f526bbc1e4c632592.png</FotoEstadio>
+  </Club>
+  <Club>
+    <Equipo>SD Eibar</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/eibar.png</Escudo>
+    <Fundacion>Fundación 1940</Fundacion>
+    <Estadio>Municipal de Ipurua</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2020/08/11/medium/a2e60532e61cec4e87f77fee8cb6e390.png</FotoEstadio>
+  </Club>
+  <Club>
+    <Equipo>SD Huesca</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/huesca.png</Escudo>
+    <Fundacion>Fundación 1960</Fundacion>
+    <Estadio>El Alcoraz</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/08/12/medium/7f2417a1294943387e499185f8c1d565.png</FotoEstadio>
+  </Club>
+  <Club>
+    <Equipo>SD Ponferradina</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2021/06/24/xsmall/20f0382ea9163a771b3e01bbe7cf78b7.png</Escudo>
+    <Fundacion>Fundación 1922</Fundacion>
+    <Estadio>El Toralín</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/08/07/medium/ab61e987dbd10315ca190b05e714dbd4.png</FotoEstadio>
+  </Club>
+  <Club>
+    <Equipo>UD Almería</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/almeria.png</Escudo>
+    <Fundacion>Fundación 1989</Fundacion>
+    <Estadio>Estadio de los Juegos Mediterráneos</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/08/12/medium/4b6ebed43e0c33b78228581b6eed6824.png</FotoEstadio>
+  </Club>
+  <Club>
+    <Equipo>UD Ibiza</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2021/06/24/xsmall/d7bc0d2c9bf06afd6b5ace9d62771713.png</Escudo>
+    <Fundacion>Fundación 2015</Fundacion>
+    <Estadio>Estadio Can Misses – Power Electronics</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2021/06/25/medium/c105c45151ab6a28f3a97726868df36d.png</FotoEstadio>
+  </Club>
+  <Club>
+    <Equipo>UD Las Palmas</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/las-palmas.png</Escudo>
+    <Fundacion>Fundación 1949</Fundacion>
+    <Estadio>Estadio Gran Canaria</Estadio>
+    <FotoEstadio>https://assets.laliga.com/assets/2019/08/12/medium/e0129e197124bb917f768da2112d594a.png</FotoEstadio>
+  </Club>
+</Clubes>

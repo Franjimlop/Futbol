@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Clubes>
+  <Club>
+    <Equipo>At. Madrid Femenino</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/atletico-feminas.png</Escudo>
+    <Estadio>Centro Deportivo Wanda Alcalá de Henares</Estadio>
+    <Fundación></Fundación>
+  </Club>
+  <Club>
+    <Equipo>Athletic Club</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/athletic-femenino.png</Escudo>
+    <Estadio>Lezama</Estadio>
+    <Fundación></Fundación>
+  </Club>
+  <Club>
+    <Equipo>Deportivo Alavés</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2021/06/28/xsmall/42d681848c77e9a837be29b98e03557b.png</Escudo>
+    <Estadio>Ciudad Deportiva José Luis Compañón</Estadio>
+    <Fundación></Fundación>
+  </Club>
+  <Club>
+    <Equipo>FC Barcelona</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/fc-barcelona-femenino.png</Escudo>
+    <Estadio>Estadi Johan Cruyff</Estadio>
+    <Fundación></Fundación>
+  </Club>
+  <Club>
+    <Equipo>Levante UD</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/levante-femenino.png</Escudo>
+    <Estadio>Ciudad Deportiva de Buñol</Estadio>
+    <Fundación></Fundación>
+  </Club>
+  <Club>
+    <Equipo>Madrid CFF</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/madrid-futbol-femenino.png</Escudo>
+    <Estadio>Estadio José Luis de la Hoz-Matapiñonera</Estadio>
+    <Fundación></Fundación>
+  </Club>
+  <Club>
+    <Equipo>R. Betis Féminas</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/betis.png</Escudo>
+    <Estadio>Ciudad Deportiva Luis del Sol</Estadio>
+    <Fundación></Fundación>
+  </Club>
+  <Club>
+    <Equipo>Rayo Vallecano</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/rayo-femenino.png</Escudo>
+    <Estadio>Ciudad Deportiva Fundación Rayo Vallecano</Estadio>
+    <Fundación></Fundación>
+  </Club>
+  <Club>
+    <Equipo>Real Madrid Femenino</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/real-madrid.png</Escudo>
+    <Estadio>Ciudad Deportiva del Real Madrid</Estadio>
+    <Fundación></Fundación>
+  </Club>
+  <Club>
+    <Equipo>Real Sociedad</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/real-sociedad.png</Escudo>
+    <Estadio>Zubieta</Estadio>
+    <Fundación></Fundación>
+  </Club>
+  <Club>
+    <Equipo>SD Eibar</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/eibar.png</Escudo>
+    <Estadio>Complejo Deportivo de Unbe</Estadio>
+    <Fundación></Fundación>
+  </Club>
+  <Club>
+    <Equipo>Sevilla FC</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/sevilla.png</Escudo>
+    <Estadio>Estadio Jesús Navas</Estadio>
+    <Fundación></Fundación>
+  </Club>
+  <Club>
+    <Equipo>Sporting Huelva</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/sporting-club.png</Escudo>
+    <Estadio>Campo Federativo de la Orden</Estadio>
+    <Fundación></Fundación>
+  </Club>
+  <Club>
+    <Equipo>UD Granadilla Tenerife Egatesa</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/granadilla.png</Escudo>
+    <Estadio>La Palmera, San Isidro</Estadio>
+    <Fundación></Fundación>
+  </Club>
+  <Club>
+    <Equipo>VCF Femenino</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2019/06/07/xsmall/valencia-femenino.png</Escudo>
+    <Estadio>Ciudad Deportiva del Valencia</Estadio>
+    <Fundación></Fundación>
+  </Club>
+  <Club>
+    <Equipo>Villarreal CF</Equipo>
+    <Escudo>https://assets.laliga.com/assets/2021/06/28/xsmall/9fbd53c24db4a5ff2257fa8ba57b59d4.png</Escudo>
+    <Estadio>Ciudad Deportiva Villarreal</Estadio>
+    <Fundación></Fundación>
+  </Club>
+</Clubes>
